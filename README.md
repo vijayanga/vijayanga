@@ -95,7 +95,11 @@
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vijayanga)
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=vijayanga&theme=radical&rank=-All&margin-w=15&margin-h=15)
+
+</div>
 
 </div>
 
