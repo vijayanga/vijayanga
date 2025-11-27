@@ -87,15 +87,9 @@
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<a href="https://github.com/vijayanga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vijayanga&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayanga&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
-
-<!-- GitHub Streak Stats -->
-<a href="https://github.com/vijayanga">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayanga&theme=radical&hide_border=true"/>
-</a>
+![](https://github-readme-stats.vercel.app/api?username=vijayanga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vijayanga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayanga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -113,14 +107,4 @@
 </div>
 
 
-### 🌐 [Portfolio Website]
-<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-</div>
-
-**Features:** Responsive design, dark mode, project showcase  
-**Status:** ✅ Completed | **Live:** [vijayanga.vercel.app](https://vijayanga.vercel.app)
