@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Vijayanga&fontSize=50&fontAlignY=35&animation=fadeIn)
@@ -7,7 +7,7 @@
 
 🎓 **Undergraduate** | 🚀 **Passionate Problem Solver** | 💻 **Real-World Solutions Developer**  
 🏫 **Education:** Currently pursuing a BSc Hons in Information Technology at University of Moratuwa  
-🎯 **Goal:** To leave a positive mark on the world through technology and creativity  
+🎯 **Goal:** To leave a positive mark on the world through technology and creativity
 
 ## 🌐 Connect With Me:
 <div align="center">
@@ -83,7 +83,6 @@
 </div>
 
 # 📊 GitHub Stats:
-
 <div align="center">
 
 <!-- GitHub Stats Cards -->
@@ -99,12 +98,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=vijayanga)
 
 </div>
+
 ## 📈 Contribution Graph
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijayanga&theme=react-dark&hide_border=true&area=true)
 
 </div>
-
-
-
